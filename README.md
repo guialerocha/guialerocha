@@ -1,7 +1,7 @@
 - 👋 Hello, I'm @guialerocha
 - 👀 I'm interested in development
 - 🌱 I am currently learning programming
-- 💞️ I seek to collaborate in the creation and maintenance of backend and frontend software
+- 💞️ I seek to collaborate in the creation and maintenance of backend and frontend softwares
 - 📫 Contact me via my email
 - 😄 Pronouns: he
 - ⚡ Fun fact: I like micro assembly
