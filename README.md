@@ -1,6 +1,6 @@
 - 👋 Hello, I'm @guialerocha
 - 👀 Developer
-- 🌱 I am currently learning programming
+- 🌱 I'm currently delving deeper into programming
 - 💞️ I seek to collaborate in the creation and maintenance of backend and frontend softwares
 - 📫 Contact me via my email
 - 😄 Pronouns: he
