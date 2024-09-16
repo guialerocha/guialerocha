@@ -1,5 +1,5 @@
 - 👋 Hello, I'm @guialerocha
-- 👀 I'm developer
+- 👀 Developer
 - 🌱 I am currently learning programming
 - 💞️ I seek to collaborate in the creation and maintenance of backend and frontend softwares
 - 📫 Contact me via my email
